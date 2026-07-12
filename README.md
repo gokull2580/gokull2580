@@ -1,11 +1,11 @@
 <!-- Profile Header -->
 
 <h1 align="center">
-  Hi 👋, I'm YOUR_NAME
+  Hi 👋, I'm GOKUL L
 </h1>
 
 <h3 align="center">
-  Python Full Stack Developer | AI & Machine Learning Enthusiast
+  Python Full Stack Developer | Web Developer
 </h3>
 
 <p align="center">
@@ -21,11 +21,10 @@
 
 - 🎓 Computer Science and Engineering Student
 - 💻 Interested in Python Full Stack Development
-- 🤖 Currently learning Artificial Intelligence and Machine Learning
 - 🌱 Improving my skills in Flask, Django, SQL and JavaScript
 - 🏭 Currently building an AI-Powered Smart Factory Operating System
 - 🚀 Interested in developing real-world software solutions
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: gokulcse6@gmail.com
 
 ---
 
@@ -40,14 +39,14 @@
     />
   </a>
 
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="linkedin.com/in/gokul-l-3b6015328" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
 
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="github.com/gokull2580" target="_blank">
     <img
       src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
@@ -185,13 +184,13 @@ A scheduled web scraping application that collects and stores website informatio
 
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=gokull2580&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
   />
 
   <img
     width="48%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=gokull2580&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 
@@ -201,7 +200,7 @@ A scheduled web scraping application that collects and stores website informatio
 
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokull2580&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
   />
 
@@ -222,11 +221,8 @@ A scheduled web scraping application that collects and stores website informatio
 
 - Visual Studio Code
 - Git and GitHub
-- Postman
 - Vercel
-- Netlify
 - Python Virtual Environment
-- MySQL Workbench
 
 ---
 
@@ -235,7 +231,7 @@ A scheduled web scraping application that collects and stores website informatio
 <p align="center">
 
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=gokull2580&theme=tokyo-night&hide_border=true&area=true"
     alt="GitHub Contribution Graph"
   />
 
@@ -248,7 +244,7 @@ A scheduled web scraping application that collects and stores website informatio
 <p align="center">
 
   <img
-    src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"
+    src="https://github-profile-trophy.vercel.app/?username=gokull2580&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"
     alt="GitHub Trophies"
   />
 
@@ -261,7 +257,7 @@ A scheduled web scraping application that collects and stores website informatio
 <p align="left">
 
   <img
-    src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Visitors&color=0e75b6&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=gokull2580&label=Profile%20Visitors&color=0e75b6&style=for-the-badge"
     alt="Profile Visitor Counter"
   />
 
@@ -273,7 +269,7 @@ A scheduled web scraping application that collects and stores website informatio
 
 <p align="left">
 
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="linkedin.com/in/gokul-l-3b6015328" target="_blank">
     <img
       src="https://skillicons.dev/icons?i=linkedin"
       alt="LinkedIn"
@@ -281,7 +277,7 @@ A scheduled web scraping application that collects and stores website informatio
     />
   </a>
 
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:gokulcse6@gmail.com">
     <img
       src="https://skillicons.dev/icons?i=gmail"
       alt="Email"
@@ -289,7 +285,7 @@ A scheduled web scraping application that collects and stores website informatio
     />
   </a>
 
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="github.com/gokull2580" target="_blank">
     <img
       src="https://skillicons.dev/icons?i=github"
       alt="GitHub"
