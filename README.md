@@ -177,24 +177,8 @@ A scheduled web scraping application that collects and stores website informatio
 
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=gokull2580&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-
-  <img
-    width="48%"
     src="https://github-readme-streak-stats.herokuapp.com/?user=gokull2580&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
-  />
-
-</p>
-
-<p align="center">
-
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokull2580&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
   />
 
 </p>
