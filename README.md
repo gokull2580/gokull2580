@@ -10,7 +10,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Python+Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Real-World+Web+Applications;Always+Learning+New+Technologies"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Python+Full+Stack+Developer;Building+Real-World+Web+Applications;Always+Learning+New+Technologies"
     alt="Typing Animation"
   />
 </p>
