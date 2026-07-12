@@ -32,13 +32,6 @@
 
 <p align="left">
 
-  <a href="YOUR_PORTFOLIO_URL" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"
-      alt="Portfolio"
-    />
-  </a>
-
   <a href="linkedin.com/in/gokul-l-3b6015328" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -62,7 +55,7 @@
 <p align="left">
 
   <img
-    src="https://skillicons.dev/icons?i=python,flask,django,html,css,js,bootstrap,mysql,sqlite,git,github,vscode"
+    src="https://skillicons.dev/icons?i=python,flask,django,html,css,js,bootstrap,mysql,git,github,vscode"
     alt="Tech Stack"
   />
 
@@ -210,15 +203,6 @@ A scheduled web scraping application that collects and stores website informatio
 
 ## 🔧 Development Tools
 
-<p align="left">
-
-  <img
-    src="https://skillicons.dev/icons?i=vscode,git,github,postman,vercel,netlify"
-    alt="Development Tools"
-  />
-
-</p>
-
 - Visual Studio Code
 - Git and GitHub
 - Vercel
@@ -233,19 +217,6 @@ A scheduled web scraping application that collects and stores website informatio
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=gokull2580&theme=tokyo-night&hide_border=true&area=true"
     alt="GitHub Contribution Graph"
-  />
-
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=gokull2580&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"
-    alt="GitHub Trophies"
   />
 
 </p>
